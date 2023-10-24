@@ -6,7 +6,7 @@ SpikeCP is guaranteed to be reliable in the sense that the true class $c$ is inc
 
 # Dependencies
 
-This program is written in python 3.9.7 and uses PyTorch 1.10.2.
+This program is written in python 3.9.7 and uses PyTorch 1.10.2, snntorch 0.7.0, SpikingJelly 0.0.0.0.14
 
 # Run example
 
